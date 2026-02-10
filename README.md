@@ -1,5 +1,5 @@
-![Under Review](https://img.shields.io/badge/Status-Under%20Review-orange)
-**Tensorized Synergistic Representation for Multi-View Unsupervised Feature Selection**  
+
+**Tensorized Synergistic Representation for Multi-View Unsupervised Feature Selection**  ![Under Review](https://img.shields.io/badge/Status-Under%20Review-orange)
 ---
 <img width="1282" height="1022" alt="image" src="https://github.com/user-attachments/assets/33185302-74a8-4691-8d1b-b9c120128d2e" />
 
