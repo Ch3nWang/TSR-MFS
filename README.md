@@ -1,5 +1,5 @@
 
-**Tensorized Synergistic Representation for Multi-View Unsupervised Feature Selection**  ![Pattern Recognition](https://img.shields.io/badge/Status-Pattern%20Recognition-orange)
+**Tensorized Synergistic Representation for Multi-View Unsupervised Feature Selection**  ![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-orange)
 ---
 <img width="1282" height="1022" alt="image" src="https://github.com/user-attachments/assets/33185302-74a8-4691-8d1b-b9c120128d2e" />
 
