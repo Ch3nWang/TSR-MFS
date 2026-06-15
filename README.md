@@ -1,6 +1,6 @@
 
-**Tensorized Synergistic Representation for Multi-View Unsupervised Feature Selection**  [![Journal](https://img.shields.io/badge/Journal-Pattern%20Recognition-orange)]
-https://www.sciencedirect.com/science/article/abs/pii/S0031320326012045
+**Tensorized Synergistic Representation for Multi-View Unsupervised Feature Selection**
+[![Journal](https://img.shields.io/badge/Journal-Pattern%20Recognition-orange)](https://www.sciencedirect.com/science/article/abs/pii/S0031320326012045)
 ---
 <img width="1282" height="1022" alt="image" src="https://github.com/user-attachments/assets/33185302-74a8-4691-8d1b-b9c120128d2e" />
 
