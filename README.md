@@ -1,5 +1,6 @@
 
-**Tensorized Synergistic Representation for Multi-View Unsupervised Feature Selection**  ![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-orange)
+**Tensorized Synergistic Representation for Multi-View Unsupervised Feature Selection**  [![Journal](https://img.shields.io/badge/Journal-Pattern%20Recognition-orange)]
+https://www.sciencedirect.com/science/article/abs/pii/S0031320326012045
 ---
 <img width="1282" height="1022" alt="image" src="https://github.com/user-attachments/assets/33185302-74a8-4691-8d1b-b9c120128d2e" />
 
@@ -11,4 +12,15 @@ The default experiment uses the Yale dataset, which is included in the package.
 You can replace the dataset in the experiment as you want.
 We run the demo on MATLAB R2024a on a personal computer with the AMD Ryzen 5 7500F 6-Core Processor and 32 GB RAM.
 
+If you find this work useful, please cite:
 
+```bibtex
+@article{wang2026tensorized,
+  title={Tensorized synergistic representation for multi-view unsupervised feature selection},
+  author={Wang, Chen and Song, Peng and Wang, Changjia},
+  journal={Pattern Recognition},
+  pages={114239},
+  year={2026},
+  publisher={Elsevier}
+
+}
