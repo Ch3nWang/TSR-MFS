@@ -22,5 +22,4 @@ If you find this work useful, please cite:
   pages={114239},
   year={2026},
   publisher={Elsevier}
-
 }
